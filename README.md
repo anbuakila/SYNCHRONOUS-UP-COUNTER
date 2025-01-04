@@ -64,7 +64,8 @@ Developed by:A.AKILA RegisterNumber:24900889
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![synchronous up counter](https://github.com/user-attachments/assets/938cd35e-fb24-4672-a023-8ed27b729751)
+![exp 11 waveform](https://github.com/user-attachments/assets/3dc4634d-b21b-440e-907e-5079b28770c0)
+
 
 
 **TRUTH TABLE**
