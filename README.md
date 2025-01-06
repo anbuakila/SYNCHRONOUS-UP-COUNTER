@@ -64,13 +64,15 @@ Developed by:A.AKILA RegisterNumber:24900889
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![exp 11 waveform](https://github.com/user-attachments/assets/3dc4634d-b21b-440e-907e-5079b28770c0)
+![exp 11](https://github.com/user-attachments/assets/d73f26ee-ef50-44f3-8b4d-7b984e8f8966)
+
 
 
 
 **TRUTH TABLE**
 
-![EXP 11](https://github.com/user-attachments/assets/ee01ba04-9480-419d-b0a3-c9466c0e719d)
+
+![exp 11 truth table](https://github.com/user-attachments/assets/ed118f72-3b8e-4191-adeb-18c964881fa0)
 
 
 **RESULTS**
